@@ -1,10 +1,10 @@
 {
-    "serverstatus": true,
-    "noticemode": true,
-    "dataclearmode": true,
+    "serverstatus":"PAUSE",
+    "noticemode":"true",
+    "dataclearmode":"true",
     "servermeassage":"ISKA SERVER OFF KAR DIYA HAI NEW MOD 4.2 ME PURCHASE KARO",
     "opentime":" Wait For Some Time ⚡",
-    "libs":"https://github.com/ZayYadav/GaribKiDuaMod/raw/refs/heads/main/ParallaxLabs_Aim4.2.zip",
+    "libs":"https://github.com/aip68587-web/AKBGMI/raw/refs/heads/main/libAPBGMI.zip",
     "notice_title":"WELCOME TO AK LOADER",
     "notice_body":"AK LOADER"
 }
